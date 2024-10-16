@@ -1,8 +1,8 @@
 # 📊 US_Dataset Sales Report Project  
-![Demo](assets/demo.gif)  
-
 Welcome to the **US_Dataset Sales Report Project** using **Excel**!  
 This project leverages **pivot tables**, **dashboards**, and a **geographic map** to provide actionable insights into sales performance across the United States.  
+
+![Demo](https://github.com/MostafaOsama0/US_Dataset-Project/blob/main/US_DataSet.gif)  
 
 ---
 
@@ -10,10 +10,9 @@ This project leverages **pivot tables**, **dashboards**, and a **geographic map*
 1. [Project Overview](#-project-overview)
 2. [Screenshots](#-screenshots)
 3. [Key Objectives](#-key-objectives)
-4. [Gif](Gif)
-5. [Tools Used](#-tools-used)
-6. [Contact](#-contact)
-7. [How to Use](#%EF%B8%8F-how-to-use)
+4. [Tools Used](#-tools-used)
+5. [Contact](#-contact)
+6. [How to Use](#%EF%B8%8F-how-to-use)
 
 ---
 
@@ -28,14 +27,13 @@ The goal of this project is to provide a comprehensive view of US sales performa
 ---
 
 ## 📌 Screenshots
+![ 🏠 Home Page ](https://github.com/MostafaOsama0/US_Dataset-Project/blob/main/Images/Screenshot%202024-10-15%20144845.png)
 
-🏠 Home Page
+![📊 Pivot Tables](https://github.com/MostafaOsama0/US_Dataset-Project/blob/main/Images/Screenshot%202024-10-15%20144944.png)
 
-📊 Pivot Tables
+![📈 Sales Performance Dashboard](https://github.com/MostafaOsama0/US_Dataset-Project/blob/main/Images/US_DataSet%20Dashboard.png)
 
-📈 Sales Performance Dashboard
-
-🗺️ State Distribution Map
+![🗺️ State Distribution Map](https://github.com/MostafaOsama0/US_Dataset-Project/blob/main/Images/Screenshot%202024-10-15%20145034.png)
 
 ---
 ## 🎯 Key Objectives  
@@ -45,17 +43,12 @@ The goal of this project is to provide a comprehensive view of US sales performa
 3. **Support Decision-Making**: Provide actionable insights to improve sales strategies.
 
 ---
-## Gif
-
----
 ## 📈 Tools Used
 1. Microsoft Excel: Primary tool for data analysis and visualizations.
 2. GitHub: Repository for version control and collaboration.
 
 ---
-## 🛠️ How to Use  
-
-1. **Clone the Repository**  
+## 🛠️ **Setup Instructions**  
+1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your_username/US_Dataset_Sales_Report.git
-   cd US_Dataset_Sales_Report
+   https://github.com/MostafaOsama0/US_Dataset-Project
